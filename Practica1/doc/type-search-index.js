@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"baraja","l":"Baraja"},{"p":"carta","l":"Carta"},{"p":"juego","l":"Juego"},{"p":"jugador","l":"Jugador"},{"p":"<Unnamed>","l":"Main"},{"p":"baraja","l":"PalosCartas"},{"p":"baraja","l":"TipoBaraja"}];updateSearchResults();
